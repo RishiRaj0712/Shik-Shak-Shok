@@ -205,7 +205,7 @@ body {
 @media(max-width:450px){
     h1{
         margin: 2vh;
-        font-size: 12vmin;
+        font-size: 10vmin;
         color: #4ADEDE;
     }
     .box {
